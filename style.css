@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Prompt:wght@100&display=swap');
+
+body{
+  background-color: #060404;
+}
+
+
+h1{color: rgb(236, 26, 159);
+font-size: 120px;
+font-weight: 800;
+font-family: 'Pacifico', cursive;}
+
+
+p{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Prompt', sans-serif;
+    color: #fafafa;
+}
+
+
+.programadora{
+    color: blueviolet;
+}
+
+.matematica{
+    color: aqua;
+}
